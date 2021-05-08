@@ -16,11 +16,6 @@ params:
         style: link
       - type: action
         template: action
-        label: Portfolio
-        url: /portfolio/
-        style: link
-      - type: action
-        template: action
         label: Blog
         url: /blog/
         style: link
