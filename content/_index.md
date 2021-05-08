@@ -31,7 +31,7 @@ sections:
     actions:
       - type: action
         template: action
-        label: View Blog
+        label: View article
         url: blog
         style: button
 seo:
