@@ -49,4 +49,3 @@ fields:
       required: true
 pages:
   - content/portfolio/project-2.md
-  - content/portfolio/project-7.md
