@@ -12,15 +12,6 @@ sections:
         label: Contact
         url: /contact
         style: button
-  - type: section_portfolio
-    template: section_portfolio
-    title: Recent Work
-    section_id: latest-projects
-    subtitle: An optional subtitle of the section
-    layout_style: mosaic
-    projects_number: 6
-    view_all_label: View All
-    view_all_url: portfolio
   - type: section_posts
     template: section_posts
     title: Latest articles
