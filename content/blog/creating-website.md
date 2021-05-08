@@ -1,5 +1,5 @@
 ---
-title: Creating a modern website for free using StackBit
+title: Create a modern website for free using StackBit
 subtitle: >-
   This article guides you through creating a modern website within 10 minutes.
   No technical knowhow required.
