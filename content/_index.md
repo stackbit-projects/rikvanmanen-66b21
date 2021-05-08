@@ -12,8 +12,6 @@ sections:
         label: Contact
         url: /contact
         style: button
-    content: |
-      hhhh
   - type: section_portfolio
     template: section_portfolio
     title: Recent Work
