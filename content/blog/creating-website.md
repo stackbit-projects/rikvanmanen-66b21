@@ -17,7 +17,7 @@ layout: post
 ---
 ## Introduction
 
-This website was set up in under 5 minutes, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+This website was set up in under 5 minutes, all for free. **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 *   Lorem ipsum
 *   dolor sit amet
