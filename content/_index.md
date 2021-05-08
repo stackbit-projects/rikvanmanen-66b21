@@ -23,7 +23,7 @@ sections:
     view_all_url: portfolio
   - type: section_posts
     template: section_posts
-    title: Latest from the Blog
+    title: Latest articles
     section_id: latest-posts
     subtitle: An optional subtitle of the section
     posts_number: 3
