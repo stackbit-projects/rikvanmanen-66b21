@@ -6,7 +6,7 @@ subtitle: >-
 date: '2021-05-08'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: 'A short guide on free web development, aimed at non-programmers'
 seo:
   title: ''
   description: ''
