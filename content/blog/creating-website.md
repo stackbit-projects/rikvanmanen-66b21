@@ -1,6 +1,8 @@
 ---
 title: Creating a modern website for free
-subtitle: lorem-ipsum
+subtitle: >-
+  This article guides you through creating a modern website within 10 minutes.
+  No technical knowhow required.
 date: '2021-05-08'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
