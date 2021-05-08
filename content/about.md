@@ -32,5 +32,4 @@ seo:
       relativeUrl: true
 layout: page
 ---
-*This website was built using *[Stackbit](https://www.stackbit.com/).
-
+This website was built using [Stackbit](https://www.stackbit.com/).
