@@ -15,6 +15,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 thumb_image: /images/building-website.png
+image: /images/building-website.png
 ---
 ## Introduction
 
