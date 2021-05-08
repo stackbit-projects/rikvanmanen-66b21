@@ -6,7 +6,7 @@ params:
   header:
     type: header
     template: header
-    title: RVM
+    title: Rikvanmanen.com
     has_nav: true
     nav_links:
       - type: action
