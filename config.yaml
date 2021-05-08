@@ -2,7 +2,7 @@ title: Stackbit Exto Theme
 baseURL: /
 params:
   color_scheme: dark
-  accent_color: pink
+  accent_color: green
   header:
     type: header
     template: header
