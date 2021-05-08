@@ -52,5 +52,4 @@ fields:
     config:
       required: true
 pages:
-  - content/blog/workplace.md
   - content/blog/creating-website.md
